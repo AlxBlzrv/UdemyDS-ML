@@ -27,4 +27,4 @@ final_df = pd.concat([df_nums,df_objs],axis=1)
 print(final_df)
 print(final_df.corr()['SalePrice'].sort_values())
 
-df.to_csv("D:/work/git/udemy/Feature-Engineering&Linear-Regression/CategoricalData/data/Ames_NO_Missing_Data.csv",index=False)
+final_df.to_csv("D:/work/git/udemy/Feature-Engineering&Linear-Regression/CategoricalData/data/AMES_Final_DF.csv",index=False)
