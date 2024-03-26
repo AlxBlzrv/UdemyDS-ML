@@ -16,6 +16,8 @@ The course covers various topics in machine learning and data science using Pyth
   
   This project delved into logistic regression, a popular classification algorithm. I trained a logistic regression model on a dataset, performed model evaluation, including confusion matrix analysis, and visualized evaluation metrics such as precision-recall and ROC curves.
 
+- *will be supplemented...*
+
 ## Requirements
 
 To run the projects in this repository, you will need Python installed on your system along with the necessary libraries such as NumPy, Pandas, Matplotlib, and Scikit-learn. Instructions for setting up the environment and installing dependencies can be found in the README files of each project folder.
