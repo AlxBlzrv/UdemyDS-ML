@@ -12,7 +12,9 @@ The course covers various topics in machine learning and data science using Pyth
   
   In this project, I focused on feature engineering, where I constructed new features from existing data to improve the predictive power of machine learning models. Subsequently, I built a machine learning model, specifically linear regression, based on these engineered features.
 
-- **Project 2:** *will be supplemented...*
+- **Project 2: Logistic Regression & Model Evaluation**
+  
+  This project delved into logistic regression, a popular classification algorithm. I trained a logistic regression model on a dataset, performed model evaluation, including confusion matrix analysis, and visualized evaluation metrics such as precision-recall and ROC curves.
 
 ## Requirements
 
@@ -29,4 +31,3 @@ This repository is licensed under the MIT License. See the [LICENSE](LICENSE) fi
 ## Acknowledgements
 
 I would like to express my gratitude to the instructor of the Udemy course for providing such comprehensive and valuable content.
-
