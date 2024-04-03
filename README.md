@@ -16,7 +16,12 @@ The course covers various topics in machine learning and data science using Pyth
   
   This project delved into logistic regression, a popular classification algorithm. I trained a logistic regression model on a dataset, performed model evaluation, including confusion matrix analysis, and visualized evaluation metrics such as precision-recall and ROC curves.
 
-- *will be supplemented...*
+- **Project 3: K-Nearest Neighbors (KNN) Classification**
+
+  The project focuses on implementing the K-Nearest Neighbors (KNN) classification algorithm and evaluating its performance using a Sonar dataset. It includes data preprocessing, model training, evaluation, and visualization of results.
+
+*More projects will be added in the future...*
+
 
 ## Requirements
 
