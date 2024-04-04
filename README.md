@@ -20,6 +20,11 @@ The course covers various topics in machine learning and data science using Pyth
 
   The project focuses on implementing the K-Nearest Neighbors (KNN) classification algorithm and evaluating its performance using a Sonar dataset. It includes data preprocessing, model training, evaluation, and visualization of results.
 
+- **Project 4: Support Vector Machines (SVM) for Wine Fraud Detection**
+
+  This project involves implementing Support Vector Machines (SVM) for detecting fraud in wine quality classification. It includes data analysis, preprocessing, model training, hyperparameter tuning, evaluation, and result visualization.
+
+
 *More projects will be added in the future...*
 
 
