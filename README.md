@@ -24,6 +24,9 @@ The course covers various topics in machine learning and data science using Pyth
 
   This project involves implementing Support Vector Machines (SVM) for detecting fraud in wine quality classification. It includes data analysis, preprocessing, model training, hyperparameter tuning, evaluation, and result visualization.
 
+- **Project 5: Decision Trees and Random Forests for Telecom Customer Churn Prediction**
+
+  This project focuses on implementing Decision Trees and Random Forests for predicting customer churn in a telecommunications company. It includes data analysis, preprocessing, model training, evaluation, and result visualization.
 
 *More projects will be added in the future...*
 
