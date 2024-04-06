@@ -28,6 +28,10 @@ The course covers various topics in machine learning and data science using Pyth
 
   This project focuses on implementing Decision Trees and Random Forests for predicting customer churn in a telecommunications company. It includes data analysis, preprocessing, model training, evaluation, and result visualization.
 
+- **Project 6: Natural Language Processing (NLP) Projects**
+
+  This section includes two projects focusing on Natural Language Processing (NLP). Project 1 involves sentiment analysis on airline tweets, while Project 2 focuses on sentiment analysis of movie reviews.
+  
 *More projects will be added in the future...*
 
 
