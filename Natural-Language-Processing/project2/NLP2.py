@@ -71,8 +71,8 @@ plt.rc('font', size=10)
 sns.heatmap(cm, annot=True, cmap='magma', fmt='g')
 plt.xlabel('Predicted')
 plt.ylabel('Actual')
-plt.title(f'Confusion Matrix Heatmap for LinearSVC Model')
-plt.savefig(f'D:\\Dell\\repos\\UdemyDS-ML\\Natural-Language-Processing\\project2\\plots\\heatmap_confusion_matrix.png')
+plt.title('Confusion Matrix Heatmap for LinearSVC Model')
+plt.savefig('D:\\Dell\\repos\\UdemyDS-ML\\Natural-Language-Processing\\project2\\plots\\heatmap_confusion_matrix.png')
 plt.close()
 
 # Calculate and output model accuracy
