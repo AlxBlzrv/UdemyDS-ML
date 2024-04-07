@@ -31,6 +31,10 @@ The course covers various topics in machine learning and data science using Pyth
 - **Project 6: Natural Language Processing (NLP) Projects**
 
   This section includes two projects focusing on Natural Language Processing (NLP). Project 1 involves sentiment analysis on airline tweets, while Project 2 focuses on sentiment analysis of movie reviews.
+
+- **Project 7: Country Clustering Analysis**
+
+  This project aims to identify similarities among countries and regions based on various features using clustering analysis. It involves data preprocessing, feature engineering, model building using K-Means clustering, and visualization of results on a choropleth map.
   
 *More projects will be added in the future...*
 
