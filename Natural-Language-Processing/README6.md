@@ -1,6 +1,6 @@
 # Natural Language Processing Projects
 
-This repository contains two projects focused on Natural Language Processing (NLP). Both projects involve text data preprocessing, sentiment analysis, and model building for text classification tasks.
+This folder contains two projects focused on Natural Language Processing (NLP). Both projects involve text data preprocessing, sentiment analysis, and model building for text classification tasks.
 
 ## Project 1: Sentiment Analysis on Airline Tweets
 
