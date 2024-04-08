@@ -35,7 +35,11 @@ The course covers various topics in machine learning and data science using Pyth
 - **Project 7: Country Clustering Analysis**
 
   This project aims to identify similarities among countries and regions based on various features using clustering analysis. It involves data preprocessing, feature engineering, model building using K-Means clustering, and visualization of results on a choropleth map.
-  
+
+- **Project 8: DBSCAN Clustering Analysis**
+
+  This project aims to segment wholesale customers based on purchasing behavior using DBSCAN algorithm. It involves data preprocessing, model building, and visualization.
+
 *More projects will be added in the future...*
 
 
