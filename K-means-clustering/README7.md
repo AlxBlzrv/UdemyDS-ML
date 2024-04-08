@@ -53,7 +53,7 @@ K-means-clustering/
 │
 ├── Kmeans.py                   # Containing the project code
 │
-└── README.md                   # Project README file
+└── README7.md                   # Project README file
 ```
 
 This project aims to provide insights into the similarities among countries and regions based on various socio-economic indicators, facilitating better understanding and analysis of global trends and patterns.
