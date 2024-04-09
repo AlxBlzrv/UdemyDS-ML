@@ -40,7 +40,9 @@ The course covers various topics in machine learning and data science using Pyth
 
   This project aims to segment wholesale customers based on purchasing behavior using DBSCAN algorithm. It involves data preprocessing, model building, and visualization.
 
-*More projects will be added in the future...*
+- **Project 9: Principal Component Analysis (PCA)**
+
+  This project involves utilizing Principal Component Analysis to determine which handwritten digits differ most significantly from each other. It includes data exploration, visualization, preprocessing, PCA application, and result analysis.
 
 
 ## Requirements
