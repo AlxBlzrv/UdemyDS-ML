@@ -1,4 +1,4 @@
-# Principal Component Analysis (PCA) - Assignment Solutions
+# Principal Component Analysis (PCA)
 
 This folder contains solutions to verification assignments related to Principal Component Analysis (PCA).
 
